@@ -1,0 +1,6 @@
+@LancheTCE_HostAddress = http://localhost:5121
+
+GET {{LancheTCE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

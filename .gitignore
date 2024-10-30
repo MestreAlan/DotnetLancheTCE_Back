@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+.vscode/
+.vscode/*
+
+# VS Code files
+.history/
+.vs/
